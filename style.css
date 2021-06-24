@@ -1,0 +1,16 @@
+body{
+ 
+  text-align: center;
+   background-image: url("https://i.pinimg.com/564x/47/f8/f5/47f8f5f1a191787d63178423d8a069e9.jpg")
+ 
+}
+
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:50px;
+}
+
+#bio{
+  padding:20px;
+  font-size:30px;
+  text-align:center;
